@@ -38,13 +38,3 @@ switch (tablas){
     
 }
 
-
-
-// let num1 = parseFloat(prompt ('Insertar Primer numero: '));
-// let operacion = (prompt ('Insertar operacion matematica: '));
-// let num2 = parseFloat(prompt ('Insertar Segundo numero: '));
-
-// for (let i =0; i <=10; i++){
-//     let resultado= num1 / i;
-//     console.log(`${num1} x ${i} = ${resultado}`);
-// }
